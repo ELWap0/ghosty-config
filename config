@@ -1,4 +1,4 @@
-theme = Dracula 
+theme = Gruvbox Dark 
 shell-integration= zsh
 font-size=15
 background-opacity=.8
@@ -12,8 +12,8 @@ keybind=ctrl+s>p=previous_tab
 keybind=ctrl+s>n=next_tab
 
 ##split
-keybind=ctrl+s>'=new_split:right
-keybind=ctrl+s>5=new_split:down
+keybind=ctrl+s>5=new_split:right
+keybind=ctrl+s>'=new_split:down
 keybind=ctrl+s>z=toggle_split_zoom
 
 keybind=performable:ctrl+k=goto_split:up
